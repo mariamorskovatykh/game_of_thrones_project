@@ -1,0 +1,677 @@
+,Unnamed: 0,character_name,alias,allegiance,culture,books
+0,0,Addam Marbrand,Unknown,"['House Marbrand', 'House Lannister', 'City Watch']",['Andals'],['A Feast for Crows']
+1,2,Adrack Humble,Unknown,"['House Humble', 'House Greyjoy']",['Ironborn'],['A Dance with Dragons']
+2,5,Aegon Frey,Unknown,"['House Frey', 'House Tully']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+3,7,Aegon I Targaryen,"Aegon the Conqueror,Aegon the Dragonlord,Aegon the Dragon",['House Targaryen'],['Valyrian'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+6,20,Aemon (wildling),Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+7,23,Aemon Targaryen (Son of Maekar I),"Aemon Targaryen,Uncle Maester","[""Night's Watch"", 'Maesters', 'House Targaryen']","['Valyrian', 'Northmen']","['A Game of Thrones', 'A Feast for Crows']"
+9,26,Aenys Frey,Unknown,"['House Frey', 'House Tully']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+10,28,Aerion Targaryen,"Aerion Brightflame,Aerion the Monstrous,The Bright Prince,The Prince Who Thought He Was a Dragon","['House Targaryen', 'Second Sons']",['Valyrian'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+11,30,Aeron Greyjoy,Damphair,"['House Greyjoy', 'Drowned Men']",['Ironborn'],['A Feast for Crows']
+13,34,Aethelmure,Unknown,['The Citadel'],['Unknown'],['A Game of Thrones']
+14,35,Aggo,Unknown,"[""Khal Drogo's khalasar"", 'House Targaryen', 'The Queensguard']",['Dothraki'],['A Game of Thrones']
+15,37,Aladale Wynch,Unknown,"['House Wynch', ""Night's Watch""]",['Ironborn'],['A Storm of Sword']
+16,42,Alannys Harlaw,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Feast for Crows']"
+17,48,Albar Royce,Unknown,['House Royce of the Gates of the Moon'],['Vale of Arryn'],"['A Game of Thrones', 'A Feast for Crows']"
+18,49,Albett,Pimple,"[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+19,51,Alchemist,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+20,52,Alekyne Florent,Unknown,['House Florent'],['Unknown'],['A Storm of Sword']
+21,53,Alerie Hightower,Unknown,"['House Hightower', 'House Tyrell']",['Unknown'],['A Feast for Crows']
+22,56,Alester Oakheart,Unknown,['House Oakheart'],['Unknown'],['A Feast for Crows']
+23,57,Alfyn,Alfyn Crowkiller,"['Himself', 'Mance Rayder']",['Unknown'],['A Clash of Kings']
+24,60,All-for-Joffrey,All-for-Joffrey,['Unknown'],['Unknown'],['A Clash of Kings']
+25,63,Alleras,Unknown,['Citadel'],['Dornishmen'],['A Feast for Crows']
+26,64,Alliser Thorne,Unknown,"['House Thorne', ""The Night's Watch""]",['Crownlander'],['A Game of Thrones']
+27,65,Allyria Dayne,Unknown,['House Dayne'],['Dornishmen'],['A Storm of Sword']
+28,67,Alvyn Sharp,Unknown,['House Sharp'],['Ironborn'],['A Feast for Crows']
+29,68,Alyce Graceford,Unknown,"['House Graceford', 'House Tyrell']",['The Reach'],['A Feast for Crows']
+30,69,Alyn,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+31,75,Alyn Haigh,Unknown,['House Haigh'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+32,77,Alyn Orkwood,Orkwood of Orkmont,['House Orkwood'],['Ironborn'],['A Feast for Crows']
+33,78,Alyn Stackspear,Unknown,['House Stackspear'],['Unknown'],"['A Clash of Kings', 'A Feast for Crows']"
+35,91,Alysanne Bulwer,Unknown,['House Bulwer'],['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+36,93,Alyssa Blackwood,Unknown,"['House Blackwood', 'House Frey']",['Riverlands'],['A Dance with Dragons']
+37,97,Amerei Frey,Unknown,"['House Frey', 'House Lannister of Darry']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+38,98,Amory Lorch,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+39,100,Andar Royce,Unknown,['House Royce'],['Unknown'],['A Game of Thrones']
+40,101,Andrey Charlton,Unknown,['House Charlton'],['Unknown'],['A Storm of Sword']
+41,102,Andrey Dalt,Drey,['House Dalt'],['Unknown'],['A Feast for Crows']
+42,103,Andrik,Andrik the Unsmiling,"['House Drumm', 'House Greyjoy']",['Ironborn'],['A Feast for Crows']
+43,104,Andros Brax,Unknown,['House Brax'],['Unknown'],['A Game of Thrones']
+44,108,Anguy,"Anguy the Archer,Archer",['The Brotherhood without Banners'],['Marcher'],"['A Game of Thrones', 'A Storm of Sword']"
+45,109,Annara Farring,Unknown,"['House Farring', 'House Frey']",['Crownlander'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+46,110,Antario Jast,Unknown,['House Jast'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+47,111,Anya Waynwood,Unknown,"['House Waynwood', 'Lords Declarant']",['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+48,113,Ardrian Celtigar,The Red Crab,"['House Celtigar', ""House Baratheon of King's Landing"", 'House Baratheon of Dragonstone']",['Valyrian'],"['A Clash of Kings', 'A Storm of Sword']"
+49,115,Areo Hotah,Unknown,['House Nymeros Martell'],"['Free Cities', ' Norvoshi']",['A Feast for Crows']
+50,117,Arianne Martell,Unknown,['House Nymeros Martell'],['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+51,119,Armen,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+52,121,Aron Santagar,Unknown,"['House Santagar', ""House Baratheon of King's Landing""]",['Dornish'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+53,125,Arryk,Unknown,['House Tyrell'],['Unknown'],['A Feast for Crows']
+54,129,Arstan Selmy,Unknown,['House Selmy'],['Unknown'],['A Clash of Kings']
+55,130,Arthur Dayne,Unknown,"['House Dayne', 'Kingsguard']",['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+56,131,Artos Flint,Unknown,['First Flints'],['Northern mountain clans'],['A Dance with Dragons']
+57,133,Arwood Frey,Unknown,['House Frey'],['Unknown'],['A Feast for Crows']
+58,134,Arwyn Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+59,136,Arya Stark,"Arya Underfoot,Arya Horseface,Lumpyface,Lumpyhead,Weasel,The ghost in Harrenhal,Nan,Squab,Nymeria,Salty,Arry,Cat of the Canals,The blind girl,The ugly girl,Beth,Mercy,Rabbitkiller,Wolf girl,Mercedene","['House Stark', 'Faceless Men']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+60,137,Arys Oakheart,Unknown,"['House Oakheart', ""House Baratheon of King's Landing"", 'Kingsguard']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+61,138,Asha Greyjoy,"Esgred,The Kraken's Daughter","['House Greyjoy', 'House Ironmaker']",['Ironborn'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+62,139,Ashara Dayne,The maid with laughing purple eyes,['House Dayne'],['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+63,141,Aurane Waters,The Bastard of Driftmark,"['House Velaryon', ""House Baratheon of King's Landing"", 'House Baratheon of Dragonstone']",['Valyrian'],"['A Clash of Kings', 'A Feast for Crows']"
+64,145,Azor Ahai,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+66,149,Baelor Blacktyde,Unknown,['House Blacktyde'],['Unknown'],['A Feast for Crows']
+67,151,Balaq,Black Balaq,['Golden Company'],['Summer Islander'],['A Dance with Dragons']
+69,153,Balman Byrch,Unknown,"['House Byrch', 'House Stokeworth']",['The Crownlands'],['A Feast for Crows']
+70,154,Balon Botley,Unknown,['House Botley'],['Ironborn'],['A Feast for Crows']
+71,155,Balon Swann,Unknown,"['House Swann', ""House Baratheon of King's Landing"", 'The Kingsguard']",['Marcher'],"['A Game of Thrones', 'A Feast for Crows']"
+72,158,Renly Baratheon,"Renly of the House Baratheon,the First of His Name,The King in Highgarden,The King in the South","['House Baratheon', ""House Baratheon of King's Landing""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings']"
+73,160,Barbrey Dustin,Unknown,"['House Ryswell', 'House Dustin']",['Northmen'],"['A Feast for Crows', 'A Dance with Dragons']"
+74,162,Barra,Unknown,['Unknown'],['Andals'],['A Game of Thrones']
+75,163,Barre,Unknown,['The Faith of the Seven'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+76,164,Barristan Selmy,"Barristan the Bold,Arstan Whitebeard,Ser Grandfather,Barristan the Old,Old Ser","['House Selmy', 'House Targaryen', 'Queensguard', 'Kingsguard']",['Andals'],['A Game of Thrones']
+77,166,Bass,Unknown,"[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+78,168,Bella,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+79,169,Bellanora Otherys,Black Pearl of Braavos,['Unknown'],['Braavosi'],['A Feast for Crows']
+80,171,Bellegere Otherys (courtesan),"Black Pearl of Braavos,Brown Pearl",['Unknown'],['Braavosi'],['A Feast for Crows']
+81,177,Benfred Tallhart,Unknown,"['House Tallhart', 'The Wild Hares']",['Northmen'],['A Clash of Kings']
+82,178,Benfrey Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+83,180,Benjen Stark,"Uncle Benjen,Ben Stark,The Young Pup","['House Stark', ""Night's Watch""]",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+84,188,Beren Tallhart,Unknown,['House Tallhart'],['Northmen'],"['A Clash of Kings', 'A Feast for Crows']"
+85,189,Berena Hornwood,Unknown,"['House Hornwood', 'House Tallhart']",['Northmen'],['A Feast for Crows']
+86,190,Beric Dondarrion,"The Lightning Lord,Lord Derik,The Wisp of the Wood,The Scarecrow Knight,The Lord of Corpses","['House Dondarrion', 'Brotherhood Without Banners', 'House Baratheon']",['Andals'],"['A Game of Thrones', 'A Clash of Kings']"
+87,192,Beron Blacktyde,Blind Beron Blacktyde,"['House Blacktyde', 'Drowned Men']",['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+88,196,Beth Cassel,Unknown,"['House Cassel', 'House Stark']",['Northmen'],['A Game of Thrones']
+89,197,Bethany Blackwood,Unknown,['House Blackwood'],['Unknown'],['A Dance with Dragons']
+90,203,Biter,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Feast for Crows']"
+91,204,Black Maris,Unknown,['Unknown'],['Free Folk'],['A Dance with Dragons']
+92,207,Ramsay Bolton,"Ramsay Snow,Lord Snow,The Bastard of Bolton,The Bastard of the Dreadfort,Reek,Red Helm,Monster","['House Bolton', 'House Bolton of Winterfell', 'House Stark']",['Northmen'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+93,208,Boremund Harlaw,Boremund the Blue,['House Harlaw of Harridan Hill'],['Unknown'],['A Feast for Crows']
+94,209,Boros Blount,Unknown,"['House Blount', 'House Baratheon', 'Kingsguard']",['Stormlander'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+95,212,Bowen Marsh,The Old Pomegranate,"['House Marsh', ""The Night's Watch""]",['Northmen'],"['A Game of Thrones', 'A Storm of Sword', 'A Dance with Dragons']"
+96,213,Bran Stark,"Bran Stark,Bran the Broken,The Winged Wolf","['House Stark', 'Three-Eyed Crow']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+97,220,Brandon Tallhart,Unknown,['House Tallhart'],['Northmen'],['A Feast for Crows']
+98,222,Brella,Unknown,"['House Baratheon', 'House Stark']",['Unknown'],['A Feast for Crows']
+99,223,Brienne Tarth,"Brienne of Tarth,The Maid of Tarth,Brienne the Beauty,Brienne the Blue","['House Tarth', 'House Tully', 'House Baratheon', 'Rainbow Guard']",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+100,224,Bronn,"Ser Bronn of the Blackwater,Lord Stokeworth","['House Lannister', ""The City Watch of King's Landing"", 'House Stokeworth']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+101,225,Brus Buckler,Unknown,"['House Buckler', 'House Baratheon of Dragonstone', ""The Queen's men""]",['Stormlander'],['A Dance with Dragons']
+102,227,Bryce Caron,Bryce the Orange,"['House Caron', 'The Rainbow Guard', 'House Baratheon of Dragonstone']",['Marcher'],['A Game of Thrones']
+103,230,Brynden Rivers,"Lord Bloodraven,The white worm,The last greenseer,The Three-Eyed Crow,Lord Rivers","['House Targaryen[6]', ""Night's Watch[9]""]",['Valyrian'],"['A Feast for Crows', 'A Dance with Dragons']"
+104,231,Brynden Tully,"The Blackfish,Brynden Blackfish,Brynden the Blackfish","['House Tully', 'House Stark', 'House Arryn']",['Andals'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+105,234,Burton Crakehall,Unknown,['House Crakehall'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+106,235,Burton Humble,Unknown,['House Humble'],['Ironborn'],['A Dance with Dragons']
+107,236,Byan Votyris,Unknown,['Unknown'],['Norvoshi'],['A Game of Thrones']
+108,237,Byron,Byron the Beautiful,['House Baelish'],['Unknown'],['A Feast for Crows']
+109,239,Cadwyl,Unknown,['House Greyjoy'],['Ironborn'],['A Clash of Kings']
+110,240,Caleotte,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+111,242,Captain's Sister,Unknown,['Herself'],['Unknown'],['A Feast for Crows']
+112,246,Catelyn Stark,"Catelyn Tully,Cat,Lady Stoneheart,The Silent Sister,Mother Merciless,The Hangwoman","['House Tully', 'House Stark', 'Brotherhood Without Banners']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+113,247,Catspaw,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+114,248,Cayn,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+115,249,Cedric Payne,Unknown,['House Payne'],['Andals'],['A Game of Thrones']
+116,251,Cerenna Lannister,Unknown,['House Lannister'],['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+117,253,Cersei Lannister,Cersei the Lioness,"['House Lannister', ""House Baratheon of King's Landing""]",['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+119,257,Chataya,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+120,258,Chayle,Unknown,"['House Stark', 'Faith of the Seven']",['Northmen'],['A Game of Thrones']
+121,260,Chiggen,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+122,263,Clayton Suggs,Unknown,"['House Suggs', 'House Baratheon of Dragonstone']",['Crownlander'],['A Dance with Dragons']
+123,265,Clement Piper,Unknown,"['House Piper', 'House Tully', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Feast for Crows']"
+124,266,Cleos Frey,Unknown,"['House Frey', 'House Lannister']",['Westerlands'],"['A Clash of Kings', 'A Storm of Sword']"
+125,267,Cletus Yronwood,Unknown,['House Yronwood'],['Dornishmen'],['A Dance with Dragons']
+126,269,Clydas,Unknown,"[""Night's Watch""]",['Unknown'],['A Feast for Crows']
+127,270,Cohollo,Unknown,['Khal Drogo'],['Dothraki'],['A Game of Thrones']
+128,274,Colmar Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+129,279,Cregan Karstark,Unknown,['House Karstark'],['Northmen'],['A Dance with Dragons']
+130,282,Creighton Longbough,Unknown,['Himself'],['Unknown'],['A Feast for Crows']
+131,283,Cressen,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+132,289,Daario Naharis,Unknown,"['House Targaryen', 'Stormcrows']",['Tyroshi'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+133,290,Dacey Mormont,Unknown,['House Mormont'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+134,291,Dacks,Unknown,['House Redfort'],['Unknown'],['A Game of Thrones']
+135,292,Daegon Shepherd,The Black Shepherd,['House Shepherd'],['Ironborn'],['A Dance with Dragons']
+136,294,Daella Targaryen (daughter of Maekar I),Unknown,['House Targaryen'],['Crownlander'],['A Feast for Crows']
+137,298,Daenerys I Targaryen,Dany,"['House Targaryen', ""Drogo's Khalasar""]",['Valyrian'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+141,308,Dagmer,Dagmer Cleftjaw,['House Greyjoy'],['Ironborn'],"['A Clash of Kings', 'A Storm of Sword']"
+142,309,Dagon Codd,Unknown,['House Codd'],['Ironborn'],['A Dance with Dragons']
+143,311,Dagon Greyjoy,Unknown,['House Greyjoy'],['Ironborn'],['A Dance with Dragons']
+144,312,Dagon Greyjoy (Drunkard),Dagon the Drunkard,['House Greyjoy'],['Ironborn'],['A Dance with Dragons']
+145,313,Dale Drumm,Dale the Dread,['House Drumm'],['Ironborn'],['A Feast for Crows']
+146,315,Damion Lannister,Unknown,['House Lannister'],['Unknown'],['A Feast for Crows']
+147,323,Danny Flint,Brave Danny Flint,"['House Flint', ""The Night's Watch""]",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+148,325,Danwell Frey,Unknown,['House Frey'],['Riverlands'],['A Game of Thrones']
+149,326,Dareon,"Lover,The Black Singer","[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+150,329,Daryn Hornwood,Unknown,['House Hornwood'],['Northmen'],"['A Game of Thrones', 'A Dance with Dragons']"
+151,330,Daughter of the Dusk,Unknown,['Unknown'],['Braavosi'],['A Feast for Crows']
+152,331,Daven Lannister,Unknown,"['House Lannister', ""House Baratheon of King's Landing""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+153,334,Davos Seaworth,"Davos Shorthand,The Onion Knight,Davos the Smuggler,Davos of Flea Bottom,The Knight of the Onion Ship,Ser Onions,The Onion Smuggler,The Onion Lord","['House Seaworth', 'House Baratheon of Dragonstone']",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+154,338,Denyo Terys,Unknown,"[""Titan's Daughter""]",['Unknown'],['A Feast for Crows']
+155,340,Denys Drumm,Unknown,['House Drumm'],['Ironborn'],['A Feast for Crows']
+156,343,Desmond,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+157,344,Desmond Grell,Unknown,"['House Grell', 'House Tully', 'House Stark', ""Night's Watch""]",['Riverlands'],"['A Clash of Kings', 'A Clash of Kings', 'A Feast for Crows']"
+158,346,Deziel Dalt,Unknown,['House Dalt'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+159,347,Dick Follard,Deaf Dick,"['House Follard', ""The Night's Watch""]",['Crownlander'],"['A Storm of Sword', 'A Dance with Dragons']"
+160,351,Dobber,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+161,352,Donal Noye,Unknown,"['House Baratheon', ""Night's Watch""]",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+162,354,Donella Hornwood,Unknown,"['House Manderly', 'House Hornwood', 'House Bolton']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Dance with Dragons']"
+163,355,Donnel Drumm,Unknown,['House Drumm'],['Ironborn'],['A Feast for Crows']
+164,356,Donnel Flint,Unknown,['First Flints'],['Northern mountain clans'],['A Dance with Dragons']
+165,357,Donnel Haigh,Unknown,['House Haigh'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+166,360,Donnel Waynwood,Unknown,['House Waynwood'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+167,361,Donnis,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+168,362,Donnor Saltcliffe,Unknown,['House Saltcliffe'],['Ironborn'],['A Feast for Crows']
+169,364,Dontos Hollard,"Dontos the Red,Dontos the Drunk,Florian","['House Hollard', 'House Targaryen', ""House Baratheon of King's Landing""]",['Andals'],['A Game of Thrones']
+170,365,Doran Martell,Unknown,['House Nymeros Martell'],['Dornishmen'],['A Feast for Crows']
+171,366,Doreah,Unknown,"['Illyrio Mopatis', 'House Targaryen']",['Lysene'],"['A Game of Thrones', 'A Clash of Kings']"
+172,367,Dormund,Unknown,['Unknown'],['Free Folk'],"['A Storm of Sword', 'A Dance with Dragons']"
+173,368,Dorna Swyft,Unknown,"['House Swyft', 'House Lannister']",['Unknown'],['A Dance with Dragons']
+174,370,Drogo,"The Great Rider,The Great Khal",['Himself'],['Dothraki'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+175,371,Dryn,Unknown,['Unknown'],['Free Folk'],['A Dance with Dragons']
+176,373,Dunstan Drumm,"The Drumm,The Bone Hand",['House Drumm'],['Ironborn'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+177,375,Duram Bar Emmon,Unknown,['House Bar Emmon'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+178,379,Duskendale Captain,Unknown,['House Rykker'],['Unknown'],['A Feast for Crows']
+179,380,Dusky Woman,Unknown,['Unknown'],['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+180,382,Dykk Harlaw,Unknown,['House Harlaw'],['Unknown'],['A Clash of Kings']
+181,383,Dywen,Unknown,"[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+182,385,Eddara Tallhart,Unknown,['House Tallhart'],['Northmen'],"['A Storm of Sword', 'A Feast for Crows']"
+183,386,Eddard Karstark,Edd Karstark,"['House Karstark', 'House Stark']",['Northmen'],['A Game of Thrones']
+184,387,Ned Stark,"Ned Stark,The quiet wolf","['House Stark', ""House Baratheon of King's Landing"", 'House Arryn']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+185,388,Eddison Tollett,Unknown,"['House Tollett', ""Night's Watch""]",['Vale of Arryn'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+186,390,Edgerran Oakheart,Edgerran the Open-Handed,['House Oakheart'],['Unknown'],['A Feast for Crows']
+187,391,Edmund Blackwood,Ben Blackwood,['House Blackwood'],['Unknown'],['A Dance with Dragons']
+188,396,Edric Storm,Unknown,['House Baratheon'],['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+189,398,Edwyle Stark,Unknown,['House Stark'],['Northmen'],['A Clash of Kings']
+190,399,Edwyn Frey,Unknown,"['House Frey', 'House Tully', 'House Baelish']",['Riverlands'],"['A Storm of Sword', 'A Feast for Crows']"
+191,401,Eerl Harlaw,Unknown,['House Harlaw'],['Unknown'],['A Dance with Dragons']
+192,403,Elder Brother,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+193,404,Eldred Codd,Unknown,['House Codd'],['Ironborn'],['A Feast for Crows']
+194,405,Eleyna Westerling,Unknown,['House Westerling'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+195,409,Elinor Tyrell,Unknown,['House Tyrell'],['Reach'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+196,414,Ellaria Sand,The Serpent's Whore,"['House Uller', 'House Nymeros Martell']",['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+197,417,Elmar Frey,Unknown,['House Frey'],['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+198,420,Elwood Meadows,Unknown,"['House Meadows', 'House Baratheon', 'House Baratheon of Dragonstone']",['Reach'],"['A Clash of Kings', 'A Storm of Sword']"
+199,428,Emma,Unknown,['Unknown'],['Reach'],['A Feast for Crows']
+200,429,Emmett,Iron Emmett,"[""The Night's Watch""]",['Unknown'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+201,431,Emmon Frey,Unknown,"['House Frey', 'House Tully', 'House Baelish', 'House Lannister']",['Riverlands'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+202,434,Endrew Tarth,Unknown,"['House Tarth', ""The Night's Watch""]",['Stormlander'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+203,435,Erena Glover,Unknown,['House Glover'],['Northmen'],"['A Clash of Kings', 'A Feast for Crows', 'A Dance with Dragons']"
+204,442,Erryk,Unknown,['House Tyrell'],['Unknown'],['A Feast for Crows']
+205,447,Falyse Stokeworth,Unknown,"['House Stokeworth', 'House Byrch']",['The Crownlands'],['A Feast for Crows']
+206,449,Flement Brax,Unknown,['House Brax'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+207,453,Syrio Forel,Unknown,['House Stark.'],['Braavosi'],['A Game of Thrones']
+208,454,Forley Prester,Unknown,"['House Prester', 'House Lannister']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+209,457,Franklyn Flowers,"The Bastard of Cider Hall,The Brown Apple",['Golden Company'],['Andals'],['A Dance with Dragons']
+210,459,Frenken,Unknown,"['The Citadel', 'House Stokeworth']",['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+211,465,Galbart Glover,Unknown,['House Glover'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+212,466,Gared,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+213,470,Garlan Tyrell,"Garlan the Galliant,Renly's Ghost,Lord Renly,Lord Renly's Shade","['House Tyrell of Brightwater Keep', 'House Tyrell', ""House Baratheon of King's Landing""]",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+214,472,Garse Goodbrook,Unknown,['House Goodbrook'],['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+215,474,Garth Greenfield,Unknown,['House Greenfield'],['Unknown'],"['A Game of Thrones', 'A Storm of Sword']"
+216,477,Garth Tyrell,Garth the Gross,['House Tyrell'],['Reach'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+217,478,Gawen Glover,Unknown,['House Glover'],['Northmen'],"['A Clash of Kings', 'A Feast for Crows', 'A Dance with Dragons']"
+218,479,Gawen Westerling,Unknown,['House Westerling'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+219,481,Gendry,"Gendry the Bull,Ser Gendry of the Hollow Hill","['Brotherhood Without Banners', 'House Dondarrion', ""Night's Watch"", 'Tobho Mott']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+220,482,Genna Lannister,Unknown,"['House Lannister', 'House Frey']",['Unknown'],['A Clash of Kings']
+221,483,Gerald Gower,Unknown,"['House Gower', 'Stannis Baratheon']",['Unknown'],['A Storm of Sword']
+222,486,Germund Botley,Unknown,['House Botley'],['Ironborn'],['A Feast for Crows']
+223,490,Gerrick Kingsblood,Gerrick Kingsblood,"['Mance Rayder', 'House Redbeard', 'House Baratheon of Dragonstone']",['Free Folk'],['A Dance with Dragons']
+224,491,Gerrick Kingsblood's Youngest Daughter,Unknown,['House Redbeard'],['Free Folk'],['A Dance with Dragons']
+225,492,Gevin Harlaw,Unknown,['House Harlaw'],['Unknown'],['A Clash of Kings']
+226,493,Gilbert Farring,Unknown,"['House Farring', 'House Baratheon of Dragonstone']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+227,496,Gilly,Unknown,"[""Night's Watch""]",['Free Folk'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+228,497,Gilly's son,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+229,499,Godry Farring,Godry the Giantslayer,"['House Farring', 'House Baratheon of Dragonstone']",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+230,503,Gormond Drumm,Gormond the Oldfather,['House Drumm'],['Ironborn'],['A Feast for Crows']
+231,504,Gormond Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+232,505,Gorold Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+233,506,Gran Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+234,509,Greenbeard,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+235,510,Gregor Clegane,"The Mountain That Rides,The Mountain,The Great Dog,The Enormity That Rides","['House Clegane', 'House Lannister']",['Andals'],['A Game of Thrones']
+236,512,Grenn,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+237,516,Greydon Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+238,517,Balon IX Greyjoy,"Balon of the House Greyjoy,the Ninth of His Name since the Grey King,Balon the Brave,Balon the Blessed,Balon the Twice Crowned,Balon the Widowmaker,The wet king,The kraken king,The iron king,The Greyjoy",['House Greyjoy'],['Ironborn'],"['A Clash of Kings', 'A Storm of Sword']"
+239,521,Guncer Sunglass,Unknown,"['House Sunglass', 'House Baratheon of Dragonstone']",['Crownlander'],"['A Clash of Kings', 'A Storm of Sword']"
+240,522,Gwayne Gaunt,Unknown,"['House Gaunt', 'Kingsguard']",['Crownlander'],"['A Storm of Sword', 'A Feast for Crows']"
+241,525,Gwin Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+242,528,Gylbert Farwynd,Unknown,['House Farwynd of the Lonely Light'],['Ironborn'],['A Feast for Crows']
+243,530,Gyles Farwynd,Unknown,['House Farwynd of the Lonely Light'],['Ironborn'],['A Feast for Crows']
+244,532,Gyles Rosby,The Cougher,"['House Rosby', ""House Baratheon of King's Landing""]",['Andals'],['A Feast for Crows']
+245,533,Gysella Goodbrother,Unknown,['House Goodbrother'],['Ironborn'],['A Feast for Crows']
+247,535,Haereg,Unknown,['The Citadel'],['Unknown'],['A Feast for Crows']
+248,536,Haggo,Unknown,['Khal Drogo'],['Dothraki'],['A Game of Thrones']
+249,539,Hake,Unknown,"[""The Night's Watch"", 'The Others']",['Unknown'],['A Game of Thrones']
+250,540,Hal (Hairy),Unknown,"[""Night's Watch""]",['Unknown'],['A Feast for Crows']
+251,541,Halder,Stone Head,"[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+252,543,Hali,Unknown,['Unknown'],['Wildling'],['A Game of Thrones']
+253,544,Halleck,Unknown,['Mance Rayder'],['Unknown'],['A Dance with Dragons']
+254,547,Hallis Mollen,Hal,"['House Mollen', 'House Satrk']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings']"
+255,548,Hallyne,Unknown,"[""The Alchemist's Guild"", 'House Baratheon']",['The Crownlands'],['A Feast for Crows']
+256,549,Halys Hornwood,Unknown,['House Hornwood'],['Northmen'],['A Game of Thrones']
+257,550,Hareth,Horse,"[""The Night's Watch""]",['Northmen'],"['A Storm of Sword', 'A Dance with Dragons']"
+258,553,Harlon Greyjoy,Unknown,['House Greyjoy'],['Ironborn'],['A Feast for Crows']
+259,555,Harma,Unknown,"['Harma the Dogshead', 'Harma Dogshead']",['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+260,556,Harmen Uller,Unknown,['House Uller'],['Dornishmen'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+261,561,Harmund Sharp,Unknown,['House Sharp'],['Ironborn'],['A Feast for Crows']
+262,563,Harrag Sharp,Harrag Sheepstealer,['House Sharp'],['Ironborn'],['A Clash of Kings']
+263,564,Harras Harlaw,Harras the Knight,['House Harlaw of Grey Garden'],['Unknown'],['A Feast for Crows']
+264,566,Harren Botley,Unknown,['House Botley'],['Ironborn'],['A Feast for Crows']
+265,569,Harrion Karstark,Harry,['House Karstark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+266,570,Harrold Hardyng,"Harry the Heir,The Young Falcon,Harry the Arse","['House Hardyng', 'House Arryn', 'House Waynwood']",['Unknown'],['A Feast for Crows']
+267,576,Harry Rivers,Unknown,['House Bracken'],['Riverlands'],['A Storm of Sword']
+268,577,Harry Strickland,Unknown,"['House Strickland', 'Golden Company']",['Unknown'],"['A Dance with Dragons', 'The Winds of Winter']"
+269,578,Harwin,Unknown,"['House Stark', 'Brotherhood without Banners']",['Northmen'],"['A Game of Thrones', 'A Storm of Sword']"
+270,581,Harys Haigh,Unknown,"['House Haigh', 'House Frey']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+271,583,Harys Swyft,The knight of the yellow chicken,['House Swyft'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+272,584,Helman Tallhart,Unknown,['House Tallhart'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+273,585,Hendry Bracken,Unknown,['House Bracken'],['Unknown'],['A Clash of Kings']
+274,586,Henly (Maester),Unknown,"['The Citadel', 'House Slate', 'br>House Bolton']",['Unknown'],['A Dance with Dragons']
+275,589,Heward,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+276,590,Hibald,Unknown,['Himself'],['Unknown'],['A Feast for Crows']
+277,593,High Septon (Tyrion's),Unknown,['Faith of the Seven'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+278,595,Hilmar Drumm,Hilmar the Cunning,['House Drumm'],['Ironborn'],['A Feast for Crows']
+279,599,Hobber Redwyne,Slobber,"['House Redwyne', 'House Tyrell']",['Andals'],"['A Game of Thrones', 'A Feast for Crows']"
+280,601,Hodor,Hodor,['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+281,602,Hoke,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+282,603,Holly,Unknown,['Mance Rayder'],['Wildling'],['A Dance with Dragons']
+283,604,Hop-Robin,Unknown,"[""The Night's Watch""]",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+284,605,Horas Redwyne,Unknown,"['House Redwyne', 'House Tyrell']",['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+285,607,Horton Redfort,Unknown,"['House Redfort', 'Lords Declarant']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+286,610,Hosteen Frey,Unknown,"['House Frey', 'House Tully']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+287,612,Hoster Blackwood,Unknown,"['House Blackwood', 'House Tully', 'House Stark', 'House Baelish']",['Riverlands'],['A Dance with Dragons']
+288,614,Hot Pie,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+289,615,Hotho Harlaw,Hotho Humpback,"['House Harlaw of the Tower of Glimmering', 'House Harlaw']",['Unknown'],['A Feast for Crows']
+290,617,Hubard Rambton,Unknown,"['House Rambton', 'House Baratheon of Dragonstone']",['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+291,619,Hugh,Hugh of the Vale,"['House Arryn', ""House Baratheon of King's Landing""]",['Vale of Arryn'],['A Game of Thrones']
+292,620,Hugh Clifton,Unknown,"['House Clifton', 'House Tyrell']",['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+293,622,Hugo Wull,Big Bucket,['House Wull'],['Northern mountain clans'],['A Dance with Dragons']
+294,623,Hullen,Unknown,['House Stark'],['Unknown'],['A Game of Thrones']
+295,627,Humfrey Clifton,Unknown,"['House Clifton', 'House Baratheon of Dragonstone']",['Unknown'],['A Dance with Dragons']
+296,629,Humfrey Swyft,Unknown,['House Swyft'],['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+297,630,Illifer,Unknown,['Himself'],['Unknown'],['A Feast for Crows']
+298,631,Illyrio Mopatis,Unknown,"['House Targaryen', 'Varys']",['Pentos'],['A Game of Thrones']
+299,632,Ilyn Payne,Unknown,['House Lannister'],['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+300,633,Imry Florent,Unknown,"['House Florent', 'House Baratheon of Dragonstone']",['Unknown'],['A Clash of Kings']
+301,634,Irri,Unknown,['House Targaryen'],['Dothraki'],['A Game of Thrones']
+302,636,Jacelyn Bywater,Unknown,"['House Bywater', 'The City Watch']",['Unknown'],['A Clash of Kings']
+303,637,Jack Bulwer,Unknown,"['House Bulwer', ""Night's Watch""]",['Unknown'],['A Feast for Crows']
+304,639,Jacks,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+305,641,Jafer Flowers,Unknown,"[""The Night's Watch"", 'The Others']",['The Reach'],['A Game of Thrones']
+306,642,Jalabhar Xho,Unknown,['House Xho'],['Summer Islander'],"['A Game of Thrones', 'A Clash of Kings']"
+307,645,Janna Tyrell,Unknown,"['House Tyrell', 'House Fossoway of New Barrel']",['Reach'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+308,646,Janos Slynt,Unknown,"['House Slynt', ""Night's Watch"", 'City Watch']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+309,647,Jaqen H'ghar,The Alchemist,['Faceless Men'],['Lorathi'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+310,648,Jared Frey,Unknown,"['House Frey', 'House Tully', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Dance with Dragons']"
+311,649,Jaremy Rykker,Unknown,"['House Rykker', ""The Night's Watch""]",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+312,653,Jax,Unknown,"['Mance Rayder', ""The Night's Watch""]",['Free Folk'],['A Dance with Dragons']
+313,657,Jeren,Unknown,"[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+314,659,Jeyne Darry,Unknown,"['House Darry', 'House Frey']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+315,660,Jeyne Farman,Unknown,"['House Farman', 'House Clifton']",['Westerlands'],['A Feast for Crows']
+316,664,Jeyne Poole,"Arya Stark,Lady Bolton","['House Poole', 'House Stark', 'House Bolton of Winterfell']",['Northmen'],['A Game of Thrones']
+318,666,Jeyne Westerling,Unknown,"['House Westerling', 'House Stark']",['Andals'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+319,667,Jeyne Westerling (Wife of Maegor I),Black Bride,"['House Westerling', 'House Tarbeck', 'House Targaryen']",['Unknown'],['A Storm of Sword']
+320,668,Jhiqui,Unknown,['House Targaryen'],['Dothraki'],['A Game of Thrones']
+321,669,Jhogo,Unknown,"[""Khal Drogo's khalasar"", 'House Targaryen', 'The Queensguard']",['Dothraki'],['A Game of Thrones']
+322,675,Jocelyn Swyft,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+323,677,Joffrey I Baratheon,"Joffrey of Houses Baratheon and Lannister,the First of His Name,Joffrey of the House Baratheon,the First of His Name,Joffrey the Illborn,The Young Usurper,Robert II,Aerys III,Joff,Good King Joffrey","[""House Baratheon of King's Landing""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+324,682,Jojen Reed,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+325,683,Jommo,Unknown,['Unknown'],['Dothraki'],['A Game of Thrones']
+326,684,Jon Bettley,Beardless Jon Bettley,['House Bettley'],['Unknown'],['A Feast for Crows']
+327,694,Jon Myre,Pinchface Jon Myre,['House Myre'],['Ironborn'],['A Feast for Crows']
+328,700,Jon Umber (Greatjon),"The Greatjon,Greatjon Umber",['House Umber'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+329,702,Jon Waters,Unknown,['Unknown'],['Crownlander'],['A Feast for Crows']
+330,706,Jonos Bracken,Unknown,"['House Bracken', 'House Tully', 'House Stark', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+331,713,Jory Cassel,Unknown,"['House Cassel', 'House Stark']",['Northmen'],['A Game of Thrones']
+332,716,Joss Stillwood,Unknown,['House Clegane'],['Unknown'],['A Game of Thrones']
+333,718,Joy Hill,Unknown,['House Lannister'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+334,719,Joyeuse Erenford,Unknown,"['House Erenford', 'House Frey']",['Unknown'],['A Game of Thrones']
+335,720,Jurene,Unknown,"['House Baratheon', 'House Baratheon of Dragonstone']",['Unknown'],['A Storm of Sword']
+336,722,Jyck,Unknown,['House Lannister'],['Unknown'],['A Game of Thrones']
+337,726,Karyl Vance,Unknown,"[""House Vance from Wayfarer's Rest"", 'House Tully', 'House Stark', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Feast for Crows']"
+338,727,Kedge,Unknown,"[""Night's Watch""]",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+339,728,Kegs,Unknown,"[""The Night's Watch""]",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+340,729,Kella,Unknown,['House Baelish'],['Unknown'],['A Storm of Sword']
+341,731,Kevan Lannister,Unknown,['House Lannister'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+342,732,Kezmya Pahl,Unknown,"['House of Pahl', 'House Targaryen', 'House of Loraq']",['Ghiscari'],['A Dance with Dragons']
+343,733,Kindly Man,Unknown,['Faceless Men'],['Unknown'],['A Feast for Crows']
+344,735,Kurleket,Unknown,['House Bracken'],['Unknown'],['A Game of Thrones']
+345,737,Kyra Frey,Unknown,"['House Frey', 'House Goodbrook']",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+346,739,Lambert Turnberry,Unknown,"['House Turnberry', 'House Lannister']",['Westerlands'],['A Feast for Crows']
+347,740,Lancel Lannister,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+348,743,Tyrek Lannister,Wet Nurse,['House Lannister'],['Unknown'],['A Game of Thrones']
+349,745,Larence Snow,The Bastard of Hornwood,"['House Hornwood', 'House Glover']",['Northmen'],"['A Clash of Kings', 'A Dance with Dragons']"
+350,746,Lark,Lark the Sisterman,"[""The Night's Watch""]",['Sistermen'],"['A Clash of Kings', 'A Storm of Sword']"
+351,748,Last hero,The Last Hero,['Unknown'],['First Men'],['A Game of Thrones']
+352,750,Laswell Peake,Unknown,['The Golden Company'],['Unknown'],['A Dance with Dragons']
+353,752,Leathers,Unknown,"['Mance Rayder', ""The Night's Watch""]",['Free Folk'],['A Dance with Dragons']
+354,754,Lem Lemoncloak,Unknown,['Unknown'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+355,755,Lenwood Tawney,Little Lenwood Tawney,['House Tawney'],['Ironborn'],['A Feast for Crows']
+356,757,Leo Tyrell (son of Moryn),"Lazy Leo,Leo the Lazy","['House Tyrell', 'Maesters']",['Andals'],['A Feast for Crows']
+357,759,Leobald Tallhart,Unknown,['House Tallhart'],['Northmen'],['A Clash of Kings']
+358,760,Leona Woolfield,Unknown,"['House Woolfield', 'House Manderly']",['Northmen'],['A Dance with Dragons']
+359,762,Leonette Fossoway,Leonette Fossoway,"['House Fossoway', 'House Tyrell', 'House Tyrell of Brightwater Keep']",['Andals'],['A Storm of Sword']
+360,764,Lester,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+361,765,Lew,Unknown,"[""Night's Watch""]",['Unknown'],['A Feast for Crows']
+362,766,Lew (Winterfell Guard),Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+363,767,Lewys Lydden,Unknown,['House Lydden'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+364,768,Lewys Piper,Unknown,['House Piper'],['Unknown'],['A Feast for Crows']
+365,769,Lharys,Unknown,['House Bracken'],['Unknown'],['A Game of Thrones']
+367,777,Loras Tyrell,"The Knight of Flowers,The Knight of Pansies","['House Tyrell', 'Kingsguard', 'Rainbow Guard']",['Andals'],"['A Game of Thrones', 'A Feast for Crows']"
+368,780,Lord Commander's Raven,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+369,782,Lord Sunglass,Unknown,['House Sunglass'],['Unknown'],['A Storm of Sword']
+370,784,Loren I Lannister,Loren the Last,['House Lannister'],['Westerlands'],['A Game of Thrones']
+371,786,Lorent Caswell,Unknown,"['House Caswell', 'House Tyrell']",['Reach'],['A Clash of Kings']
+372,790,Lorimer,Lorimer the Belly,['House Lefford'],['Unknown'],['A Game of Thrones']
+373,795,Lothar Frey,Lame Lothar,"['House Frey', 'House Tully']",['Riverlands'],['A Storm of Sword']
+374,796,Lothor Brune,Lothor Apple-Eater,"['House Brune of Brownhollow', ""House Baratheon of King's Landing"", 'House Baelish']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+375,797,Lucamore Strong,Unknown,"['House Strong', 'House Targaryen', 'Kingsguard', ""Night's Watch""]",['Unknown'],['A Feast for Crows']
+376,798,Lucas Blackwood,Unknown,"['House Blackwood', 'House Tully', 'House Stark']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+377,799,Lucas Codd,Left-Hand Lucas Codd,['House Codd'],['Ironborn'],['A Feast for Crows']
+378,801,Lucas Roote,Unknown,['House Roote'],['Unknown'],['A Storm of Sword']
+379,802,Luceon Frey,Unknown,"['House Frey', 'Faith of the Seven', 'Most Devout']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+380,809,Luthor Tyrell,Unknown,['House Tyrell'],['Reach'],['A Storm of Sword']
+381,812,Luwin,Unknown,"['House Stark', 'Maesters of the Citadel']",['Westerlands'],"['A Game of Thrones', 'A Clash of Kings']"
+382,813,Lyanna Mormont,Unknown,['House Mormont'],['Northmen'],"['A Feast for Crows', 'A Dance with Dragons']"
+383,814,Lyanna Stark,"The She-wolf,The Wolf Maid,Lya,Wolf girl",['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+384,817,Lyle Crakehall,Strongboar,['House Crakehall'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+385,818,Lyman Darry,Unknown,"['House Darry', 'House Tully', 'House Stark']",['Westerlands'],"['A Game of Thrones', 'A Clash of Kings']"
+386,820,Lymond Goodbrook,Unknown,['House Goodbrook'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+387,823,Lymond Vikary,Unknown,['House Vikary'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+388,824,Lyn Corbray,Unknown,"['House Corbray', 'Lords Declarant']",['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+389,829,Lyonel Corbray,Unknown,['House Corbray'],['Vale of Arryn'],['A Feast for Crows']
+390,830,Lyonel Frey,Unknown,"['House Frey', 'House Frey of Riverrun', 'House Lannister']",['Andals'],['A Feast for Crows']
+391,836,Lythene Frey,Unknown,['House Frey'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+392,837,Mace Tyrell,"Lord Oaf,The Fat Flower,Lord Puff Fish","['House Tyrell', ""House Baratheon of King's Landing"", ""House Baratheon of Storm's End""]",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+393,838,Mad Huntsman,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+394,844,Maelys Blackfyre,"Maelys the Monstrous,Maelys of the House Blackfyre,the First of His Name","['House Blackfyre', 'Golden Company']",['Free Cities'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+395,847,Malegorn of Redpool,Malegorn of Redpool,['House Baratheon of Dragonstone'],['Unknown'],['A Dance with Dragons']
+396,848,Malleon,Unknown,"['The Citadel', 'House Targaryen']",['Unknown'],['A Game of Thrones']
+397,849,Jason Mallister,Unknown,"['House Mallister', 'House Tully', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+398,850,Mallor the Dornishman,Mallor the Dornishman,['House Lannister'],['Dornishmen'],['A Game of Thrones']
+399,851,Mandon Moore,Unknown,"['House Moore', 'The Kingsguard']",['Vale of Arryn'],"['A Game of Thrones', 'A Clash of Kings']"
+400,854,Manfrey Martell,Unknown,['House Martell'],['Dornishmen'],['A Feast for Crows']
+401,855,Manfryd Merlyn,Unknown,['House Merlyn'],['Ironborn'],['A Dance with Dragons']
+402,858,Manfryd Yew,Unknown,['House Yew'],['Unknown'],['A Feast for Crows']
+403,861,Marghaz zo Loraq,Unknown,"['House of Loraq', 'Brazen Beasts']",['Ghiscari'],['A Dance with Dragons']
+404,864,Marillion,Unknown,['House Arryn'],['Unknown'],['A Game of Thrones']
+405,866,Mariya Darry,Unknown,"['House Darry', 'House Frey', 'House Lannister']",['Riverlands'],['A Feast for Crows']
+406,867,Mark Mullendore,Unknown,['House Mullendore'],['Reach'],"['A Clash of Kings', 'A Feast for Crows', 'A Dance with Dragons']"
+407,869,Marlon Manderly,Unknown,['House Manderly'],['Unknown'],['A Dance with Dragons']
+408,871,Maron Botley,"Old Botley,Fishwhiskers",['House Botley'],['Ironborn'],['A Clash of Kings']
+409,873,Maron Volmark,Unknown,['House Volmark'],['Ironborn'],['A Feast for Crows']
+410,875,Marq Piper,Unknown,"['House Piper', 'House Tully', 'House Stark']",['Riverlands'],"['A Game of Thrones', 'A Storm of Sword']"
+411,881,Martyn Lannister,Unknown,['House Lannister'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+412,883,Martyn Rivers,Unknown,['House Frey'],['Riverlands'],['A Game of Thrones']
+413,885,Masha Heddle,Unknown,['House Heddle'],['Riverlands'],['A Game of Thrones']
+414,886,Maslyn,Unknown,"[""The Night's Watch""]",['Unknown'],['A Storm of Sword']
+416,889,Mathis Rowan,Unknown,['House Rowan'],['Reach'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+417,890,Matthar,"Matt,Ser Loon","[""The Night's Watch""]",['Unknown'],['A Game of Thrones']
+418,894,Medrick,Unknown,"['The Citadel', 'House Hornwood', 'House Bolton']",['Unknown'],['A Dance with Dragons']
+419,896,Meera Reed,Unknown,['House Reed'],['Crannogmen'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+420,897,Megga Tyrell,Unknown,['House Tyrell'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+421,900,Melara Crane,Unknown,"['House Crane', 'House Florent']",['Unknown'],['A Storm of Sword']
+422,901,Meldred Merlyn,The Merlyn,['House Merlyn'],['Ironborn'],['A Feast for Crows']
+423,903,Melessa Florent,Unknown,"['House Florent', 'House Tarly']",['Unknown'],['A Storm of Sword']
+424,904,Melisandre,"Melony,The Red Woman,The Red Witch,The King's Red Shadow,Lady Red,Lot Seven","[""Faith of R'hllor"", 'House Baratheon of Dragonstone']",['Asshai'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+425,905,Melissa Blackwood,Missy,['House Blackwood'],['Unknown'],['A Dance with Dragons']
+426,909,Merianne Frey,Unknown,['House Frey'],['Riverlands'],['A Storm of Sword']
+427,910,Meribald,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+428,911,Merlon Crakehall,Unknown,['House Crakehall'],['Unknown'],['A Storm of Sword']
+429,917,Meryn Trant,Unknown,"['House Trant', 'The Kingsguard', ""House Baratheon of King's Landing""]",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+430,918,Mikken,Unknown,['House Stark'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+431,922,Mohor,Unknown,['House Bracken'],['Unknown'],['A Game of Thrones']
+432,923,Mollander,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+433,926,Moon Boy,Unknown,"[""House Baratheon of King's Landing"", 'Varys']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+434,928,Mordane,Unknown,['House Stark'],['Unknown'],['A Game of Thrones']
+435,929,Moreo Tumitis,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+436,933,Morgarth,Morgarth the Merry,['House Baelish'],['Unknown'],['A Feast for Crows']
+437,935,Jeor Mormont,The Old Bear,"['House Mormont', ""Night's Watch"", 'House Stark']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+438,936,Jorah Mormont,"Jorah the Andal,The Exile Knight,Ser Bezoar","['House Mormont', 'House Targaryen', 'Second Sons']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+439,937,Moro,Unknown,"['Himself', 'House Targaryen']",['Dothraki'],['A Game of Thrones']
+440,938,Morrec,Unknown,['House Lannister'],['Westerlands'],['A Game of Thrones']
+441,939,Morros Slynt,Unknown,"['House Slynt', ""House Baratheon of King's Landing""]",['Crownlander'],"['A Clash of Kings', 'A Storm of Sword']"
+442,943,Mully,Unknown,"[""Night's Watch""]",['Unknown'],['A Feast for Crows']
+443,944,Munda,Unknown,['Unknown'],['Free Folk'],['A Storm of Sword']
+444,945,Murenmure,Unknown,['House Goodbrother'],['Unknown'],['A Feast for Crows']
+445,947,Mycah,The Butcher's Boy,['Unknown'],['Unknown'],['A Game of Thrones']
+446,948,Mychel Redfort,Unknown,['House Redfort'],['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+447,949,Myles,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+448,952,Myranda Lefford,Unknown,"['House Lefford', 'House Lannister']",['Unknown'],['A Clash of Kings']
+449,953,Myrcella Baratheon,Unknown,"[""House Baratheon of King's Landing"", 'House Martell']",['Andals'],['A Game of Thrones']
+450,955,Myrielle Lannister,Unknown,['House Lannister'],['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+452,958,Naggle,Unknown,['Himself'],['Unknown'],['A Feast for Crows']
+454,960,Night's King,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+455,961,Norbert Vance,Unknown,"['House Vance of Atranta', 'House Tully', 'House Baelish']",['Riverlands'],['A Feast for Crows']
+456,962,Norjen,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+457,967,Notch,Unknown,['Brotherhood without Banners'],['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+458,968,Nute the Barber,Nute the Barber,['House Greyjoy'],['Ironborn'],['A Feast for Crows']
+459,969,Nymeria,Nymeria of the Rhoyne,['House Martell'],['Rhoynar'],"['A Game of Thrones', 'A Feast for Crows', 'A Dance with Dragons']"
+460,970,Nymeria Sand,Lady Nym,"['House Martell', 'Sand Snakes']",['Dornishmen'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+461,971,Obara Sand,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+462,972,Oberyn Martell,The Red Viper,"['House Martell', 'Second Sons']",['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+463,973,Old Nan,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+464,975,Olenna Tyrell,"Olenna Redwyne,The Queen of Thorns","['House Redwyne', 'House Tyrell']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+465,978,Olyvar Frey,Unknown,"['House Frey', 'House TullyHouse Stark']",['Riverlands'],"['A Game of Thrones', 'A Storm of Sword']"
+466,981,Omer Blackberry,Unknown,"['House Blackberry', 'House Baratheon of Dragonstone']",['Unknown'],['A Storm of Sword']
+467,983,Ondrew Locke,Old Lord Locke,['House Locke'],['Unknown'],['A Clash of Kings']
+468,991,Osbert Serry,Unknown,['House Serry'],['Unknown'],['A Feast for Crows']
+469,993,Osfryd Kettleblack,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+470,994,Osha,Unknown,"['House Stark', 'Free Folk']",['Free Folk'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+471,995,Osmund Kettleblack,Unknown,"['House Kettleblack', 'House Baelish', 'Kingsguard']",['Unknown'],['A Feast for Crows']
+472,997,Osney Kettleblack,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+473,1004,Othell Yarwyck,Unknown,"['House Yarwyck', ""The Night's Watch""]",['Westerlands'],"['A Game of Thrones', 'A Storm of Sword', 'A Dance with Dragons']"
+474,1008,Othor,Unknown,"[""The Night's Watch"", 'The Others']",['Unknown'],['A Game of Thrones']
+475,1009,Ottyn Wythers,Unknown,"['House Wythers', ""The Night's Watch""]",['Reach'],"['A Clash of Kings', 'A Storm of Sword']"
+476,1012,Oznak zo Pahl,Unknown,['House of Pahl'],['Ghiscari'],['A Storm of Sword']
+477,1013,Patchface,Patches,['House Baratheon of Dragonstone'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+478,1014,Pate,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+479,1018,Patrek Mallister,Unknown,"['House Mallister', 'House Tully']",['Riverlands'],['A Game of Thrones']
+480,1019,Paxter Redwyne,Unknown,"['House Redwyne', 'House Tyrell', ""House Baratheon of King's Landing""]",['Andals'],['A Feast for Crows']
+481,1024,Perkin Follard,Unknown,"['House Follard', 'House Baratheon of Dragonstone', ""The Queen's men""]",['Crownlander'],['A Dance with Dragons']
+482,1025,Perra Royce,Unknown,"['House Royce', 'House Frey']",['Vale of Arryn'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+483,1027,Perwyn Frey,Unknown,['House Frey'],['Riverlands'],['A Game of Thrones']
+484,1028,Petyr Baelish,"Littlefinger,Lord Littlefinger","['House Baelish', 'House Arryn', ""House Baratheon of King's Landing""]","['Andals', ' Essos', ' Braavosi']","['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+485,1029,Petyr Frey,Petyr Pimple,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+486,1031,Philip Foote,Unknown,"['House Foote', 'House Foote of Nightsong']",['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+487,1033,Podrick Payne,Unknown,"['House Payne', 'House Lannister', 'House Lefford', 'Tyrion Lannister']",['Unknown'],['A Feast for Crows']
+488,1034,Polliver,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+489,1035,Porther,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+490,1037,Praed,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+491,1039,Preston Greenfield,Unknown,"['House Greenfield', ""House Baratheon of King's Landing"", 'Kingsguard']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+492,1043,Puckens,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+493,1045,Pycelle,Unknown,"['The Citadel', 'House Lannister']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+494,1046,Pyg,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+495,1047,Pypar,"Pyp,Monkey","[""The Night's Watch""]",['Unknown'],"['A Game of Thrones', 'A Feast for Crows']"
+496,1053,Qarl the Maid,Qarl the Maid,['House Greyjoy'],['Ironborn'],"['A Clash of Kings', 'A Feast for Crows', 'A Dance with Dragons']"
+497,1058,Qotho,Unknown,['Khal Drogo'],['Dothraki'],['A Game of Thrones']
+498,1060,Quaro,Unknown,"[""Khal Drogo's khalasar""]",['Dothraki'],['A Game of Thrones']
+499,1063,Quellon Humble,Unknown,['House Humble'],['Ironborn'],['A Feast for Crows']
+500,1064,Quenten Banefort,Unknown,['House Lannister'],['Unknown'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+501,1067,Quenton Greyjoy (cousin),Unknown,['House Greyjoy'],['Ironborn'],['A Dance with Dragons']
+502,1071,Quincy Cox,Unknown,['House Cox'],['Andals'],['A Feast for Crows']
+503,1072,Qyburn,"The Bloody Maester,Lord Qyburn","[""House Baratheon of King's Landing"", 'House Lannister', 'Brave Companions', 'Order of Maesters']",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+504,1073,Qyle,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+505,1075,Rakharo,Unknown,"[""Khal Drogo's khalasar"", 'House Targaryen', 'The Queensguard']",['Dothraki'],['A Game of Thrones']
+506,1076,Ralf Kenning,Unknown,['House Kenning of Harlaw'],['Ironborn'],"['A Feast for Crows', 'A Dance with Dragons']"
+507,1077,Ralf Stonehouse,Red Ralf Stonehouse,['House Stonehouse'],['Ironborn'],"['A Feast for Crows', 'A Dance with Dragons']"
+508,1078,Rast,Rat,"[""The Night's Watch""]",['Unknown'],"['A Game of Thrones', 'A Storm of Sword']"
+509,1084,Raymun Darry,Unknown,"['House Darry', 'House Targaryen']",['Riverlands'],['A Game of Thrones']
+510,1085,Raymun Redbeard,Unknown,['The Free Folk'],['The Free Folk'],['A Dance with Dragons']
+511,1086,Raymund Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+512,1089,Raynald Westerling,Unknown,"['House Westerling', 'House Stark']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+513,1090,Raynard Ruttiger,Unknown,['House Ruttiger'],['Unknown'],['A Feast for Crows']
+514,1091,Red Oarsman,Unknown,['Unknown'],['Ironborn'],['A Feast for Crows']
+515,1095,Regenard Estren,Unknown,['House Estren'],['Unknown'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+516,1098,Renfred Rykker,Unknown,['House Rykker'],['Crownlander'],['A Feast for Crows']
+517,1100,Rennifer Longwaters,Unknown,['House Longwaters'],['Unknown'],['A Feast for Crows']
+518,1102,Reysen,Rey,['Unknown'],['Unknown'],['A Clash of Kings']
+519,1103,Rhae Targaryen,Unknown,['House Targaryen'],['Crownlander'],['A Feast for Crows']
+521,1108,Rhaego,The Stallion Who Mounts the World,"['House Targaryen', ""Drogo's Khalasar""]","['Dothraki', ' Valyrian']","['A Game of Thrones', 'A Clash of Kings', 'A Dance with Dragons']"
+522,1109,Rhaella Targaryen,Unknown,['House Targaryen'],['Crownlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+523,1115,Rhogoro,Unknown,['Khal Moro'],['Dothraki'],['A Game of Thrones']
+524,1116,Ricasso,Unknown,['House Martell'],['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+525,1117,Richard Horpe,"Wrong-way ranger,The slayer,The knight of the moths","['House Horpe', 'House Baratheon of Dragonstone', ""The Queen's men""]",['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+526,1120,Rickard Stark,Unknown,['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+527,1124,Rickon Stark,Unknown,['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+528,1128,Robar Royce,Robar the Red,"['House Royce', 'House Arryn', 'Rainbow Guard']",['Andals'],"['A Game of Thrones', 'A Clash of Kings']"
+529,1132,Robb Stark,"The Young Wolf,The King Who Lost the North,Robb the Lord,The wolfling,The pup,The Boy Wolf",['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+530,1135,Robert Blackwood,Unknown,['House Blackwood'],['First Men'],['A Dance with Dragons']
+531,1137,Robert Brax,Unknown,['House Brax'],['Unknown'],['A Storm of Sword']
+532,1140,Robert I Baratheon,"Robert of the House Baratheon,the First of His Name,Robert the Usurper,The Demon of the Trident,The Whoremonger King","['House Baratheon', ""House Baratheon of King's Landing""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+533,1142,Robert Strong,"The Silent Giant,Qyburn's Mute Monster",['Kingsguard of Tommen I'],['Unknown'],['A Dance with Dragons']
+534,1143,Robett Glover,Unknown,['House Glover'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+535,1145,Robin Greyjoy,Unknown,['House Greyjoy'],['Ironborn'],['A Feast for Crows']
+536,1147,Robin Ryger,Unknown,"['House Ryger', 'House Tully', 'House Stark', 'House Baelish']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+537,1152,Rodrik Cassel,Unknown,"['House Cassel', 'House Stark']",['Unknown'],['A Game of Thrones']
+538,1154,Rodrik Harlaw,Rodrik the Reader,"['House Harlaw', 'House Greyjoy']",['Ironborn'],"['A Feast for Crows', 'A Dance with Dragons']"
+539,1155,Rodrik Sparr,The Vole,['House Sparr'],['Ironborn'],['A Dance with Dragons']
+540,1164,Roland Crakehall,Unknown,['House Crakehall'],['Unknown'],"['A Clash of Kings', 'A Feast for Crows']"
+541,1168,Rolder,Unknown,['House Lannister'],['Unknown'],['A Feast for Crows']
+542,1169,Rollam Westerling,Unknown,"['House Westerling', 'House Stark']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+543,1172,Rolley of Sisterton,Unknown,"[""The Night's Watch""]",['Sistermen'],['A Storm of Sword']
+544,1173,Rolly Duckfield,"Duck,Ser Duck","['Golden Company', 'House Targaryen', 'Kingsguard']",['Andals'],['A Dance with Dragons']
+545,1174,Rolph Spicer,Unknown,"['House Spicer', 'House Westerling']",['Unknown'],['A Storm of Sword']
+546,1175,Romny Weaver,Unknown,['House Weaver'],['Ironborn'],['A Feast for Crows']
+547,1176,Ronel Rivers,Unknown,['House Frey'],['Riverlands'],['A Game of Thrones']
+548,1179,Roone,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+549,1180,Roose Bolton,The Leech Lord,['House Bolton'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+550,1181,Rorge,"Broken Nose,The Mad Dog of Saltpans,Sandor Clegane,The Hound",['Brave Companions'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+551,1182,Roryn Drumm,Roryn the Reaver,['House Drumm'],['Ironborn'],['A Feast for Crows']
+552,1184,Rosamund Lannister,Unknown,['House Lannister of Lannisport'],['Andals'],['A Feast for Crows']
+553,1186,Rosey,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+555,1188,Roslin Tully,Roslin Frey,"['House Frey', 'House Tully']",['Andals'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+556,1192,Rufus Leek,Unknown,"['House Leek', 'House Rykker']",['Crownlander'],['A Feast for Crows']
+557,1194,Rus,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+558,1200,Ryk,Longspear Ryk,['Unknown'],['Free Folk'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+559,1202,Ryman Frey,Unknown,"['House Frey', 'House Tully']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+560,1203,Rymolf,Rymolf Stormdrunk,['House Greyjoy'],['Ironborn'],['A Clash of Kings']
+561,1213,Samwell Spicer,Unknown,['House Spicer'],['Unknown'],['A Storm of Sword']
+562,1215,Samwell Tarly,"Sam,Ser Piggy,The Lord of Ham,Lady Piggy,Sam the Slayer,Black Sam","['House Tarly', ""Night's Watch""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+563,1216,Sandor Clegane,"The Hound,Dog,Joffrey's dog","['House Clegane', 'House Lannister', ""House Baratheon of King's Landing""]",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+564,1217,Sansa Stark,Little bird,"['House Stark', 'House Lannister', 'House Arryn', 'House Baelish']",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+565,1224,Satin,Unknown,"[""The Night's Watch""]",['Reach'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+566,1225,Sawane Botley,Unknown,['House Botley'],['Ironborn'],['A Feast for Crows']
+567,1230,Selyse Florent,Selyse Baratheon,"['House Florent', 'House Baratheon of Dragonstone']",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+568,1231,Senelle,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+569,1233,Serra,Unknown,['Unknown'],['Lysene'],['A Dance with Dragons']
+570,1235,Shadrich,Unknown,"['House Baratheon of Dragonstone', 'Varys', 'House Baelish']",['Unknown'],['A Feast for Crows']
+571,1236,Shae,Unknown,['Tyrion Lannister'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+573,1238,Shagwell,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+574,1240,Shella Whent,Unknown,"['House Whent', 'House Tully']",['Riverlands'],"['A Game of Thrones', 'A Feast for Crows']"
+575,1245,Shireen Baratheon,Unknown,['House Baratheon of Dragonstone'],['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+576,1246,Shirei Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+577,1247,Shortear,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+578,1250,Sigfry Stonetree,Unknown,['House Stonetree'],['Ironborn'],['A Feast for Crows']
+579,1251,Sigfryd Harlaw,Sigfryd Silverhair,['House Harlaw of Harlaw Hall'],['Unknown'],['A Feast for Crows']
+580,1252,Sigorn,Unknown,"['House Karstark', 'House Stark']",['Northmen'],"['A Feast for Crows', 'A Dance with Dragons']"
+581,1256,Skahaz mo Kandaq,"The Shavepate,Skahaz Shavepate","['House of Kandaq', 'House Targaryen', 'Shavepates', 'Brazen Beasts']",['Ghiscari'],['A Dance with Dragons']
+582,1258,Small Paul,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+583,1262,Stafford Lannister,Unknown,['House Lannister'],['Unknown'],['A Clash of Kings']
+584,1263,Stallion Who Mounts the World,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+585,1264,Stannis Baratheon,"Stannis of the House Baratheon,the First of His Name,The King in the Narrow Sea,The King of Dragonstone,The King at the Wall,The King of the Painted Table,Azor Ahai reborn,Azor Ahai come again,The dark lord","['House Baratheon', 'House Baratheon of Dragonstone', ""R'hllor""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+586,1265,Brandon Stark,The Wild Wolf,['House Stark'],['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+587,1266,Steffarion Sparr,Unknown,['House Sparr'],['Ironborn'],['A Feast for Crows']
+588,1272,Steffon Swyft,Unknown,['House Swyft'],['Unknown'],['A Feast for Crows']
+589,1273,Stevron Frey,Unknown,['House Frey'],['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+590,1274,Stiv,Unknown,"[""Night's Watch""]",['Unknown'],['A Game of Thrones']
+591,1276,Mya Stone,Unknown,['House Royce of the Gates of the Moon'],['Andals'],"['A Game of Thrones', 'A Feast for Crows']"
+592,1279,Sybell Spicer,Unknown,"['House Spicer', 'House Westerling']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+593,1284,Symond Frey,Unknown,"['House Frey', 'House Tully', 'House Baelish']",['Riverlands'],['A Dance with Dragons']
+594,1285,Symond Templeton,Unknown,"['House Templeton', 'Lords Declarant']",['Vale of Arryn'],['A Feast for Crows']
+595,1286,Taena Merryweather,Unknown,"['House Merryweather', 'House Lannister']",['Myrish'],"['A Storm of Sword', 'A Feast for Crows']"
+596,1287,Talbert Serry,Unknown,['House Serry'],['Unknown'],"['A Feast for Crows', 'A Dance with Dragons']"
+598,1289,Tanda Stokeworth,Unknown,['House Stokeworth'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+599,1290,Rhaegar Targaryen,"The Silver Dragon,The Last Dragon,The Silver Prince,The prince that was promised,The Dragon Prince",['House Targaryen'],['Crownlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+600,1291,Tarle,Tarle the Thrice-Drowned,['Drowned Men'],['Ironborn'],['A Feast for Crows']
+601,1295,Ternesio Terys,Unknown,"[""Titan's Daughter""]",['Unknown'],['A Feast for Crows']
+602,1297,The Sparr,Unknown,['House Sparr'],['Ironborn'],['A Feast for Crows']
+603,1298,The Stonehouse,Unknown,['House Stonehouse'],['Ironborn'],['A Feast for Crows']
+604,1302,Theomore,Unknown,"['House Lannister of Lannisport', 'The Citadel', 'House Manderly']",['Unknown'],['A Dance with Dragons']
+605,1304,Theon Greyjoy,"The Prince of Fools,Theon Turncloak,The Squid Prince,Reek,Theon Kinslayer,The Prince of Stink,The Rightful Lord of the Iron Islands","['House Greyjoy', 'House BoltonHouse Stark']",['Ironborn'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+606,1305,Thoren Smallwood,Unknown,"['House Smallwood', ""The Night's Watch""]",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword']"
+607,1306,Thoros of Myr,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+608,1307,Three-Eyed Crow,"The Three-Eyed Crow,The Last Greenseer,Lord Brynden",['Unknown'],['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+609,1308,Timeon,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+610,1310,Tion Frey,Unknown,"['House Frey', 'House Lannister']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+611,1315,Todder,Toad,"[""The Night's Watch""]",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+612,1316,Todric,Unknown,['Unknown'],['Ironborn'],['A Clash of Kings']
+613,1318,Tom Codd,Bloodless Tom,['House Codd'],['Ironborn'],['A Dance with Dragons']
+614,1321,Tom of Sevenstreams,Unknown,['Unknown'],['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+615,1322,Tomard,Fat Tom,['House Stark'],['Northmen'],['A Game of Thrones']
+616,1323,Tommen Costayne,Unknown,"['House Costayne', 'House Hightower', 'House Tyrell']",['The Reach'],"['A Game of Thrones', 'A Clash of Kings']"
+617,1324,Tommen I Baratheon,"Tommen of the House Baratheon,the First of His Name,The Boy King","[""House Baratheon of King's Landing""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+618,1328,Torghen Flint,Old Flint,['First Flints'],['Northern mountain clans'],['A Dance with Dragons']
+619,1330,Torrhen Karstark,Torr,['House Karstark'],['Unknown'],['A Game of Thrones']
+620,1333,Torwynd,Torwynd the Tame,['Unknown'],['Free Folk'],"['A Storm of Sword', 'A Dance with Dragons']"
+621,1335,Tregar,Unknown,['House Lannister'],['Unknown'],['A Game of Thrones']
+622,1336,Tristifer Botley,Tris,['House Botley'],['Ironborn'],"['A Feast for Crows', 'A Dance with Dragons']"
+623,1339,Triston of Tally Hill,Triston of Tally Hill,"['House Sunglass', 'House Baratheon of Dragonstone']",['Unknown'],['A Storm of Sword']
+624,1340,Trystane Martell,Unknown,['House Nymeros Martell'],['Dornishmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+625,1341,Edmure Tully,Unknown,"['House Tully', 'House Stark']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+626,1342,Hoster Tully,Unknown,"['House Tully', 'House Baratheon', 'House Stark']",['Riverlands'],"['A Game of Thrones', 'A Storm of Sword']"
+627,1347,Tyene Sand,Unknown,['Unknown'],['Unknown'],['A Feast for Crows']
+628,1349,Margaery Tyrell,"Little rose,Little queen,Queen Margaery,Maid Margaery","['House Tyrell', ""House Baratheon of King's Landing"", ""House Baratheon of Storm's End""]",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+629,1350,Tyrion Lannister,"The Imp,Halfman,Boyman,Giant of Lannister,Lord Tywin's Doom,Lord Tywin's Bane,Yollo,Hugor Hill,No-nose,Redhands,Monkey demon","['House Lannister', 'Second Sons']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+630,1351,Tyrion Tanner,Unknown,['House Stokeworth'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+631,1354,Tyta Frey,Tyta the Maid,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+632,1355,Tytos Blackwood,Unknown,"['House Blackwood', 'House Tully', 'House Stark', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Dance with Dragons']"
+633,1356,Tytos Brax,Unknown,['House Brax'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Feast for Crows']"
+634,1358,Tywin Frey,Unknown,"['House Frey', 'House Frey of Riverrun']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows']"
+635,1360,Uller,Unknown,['House Greyjoy'],['Ironborn'],['A Clash of Kings']
+636,1361,Umfred,Unknown,['House Baelish'],['Unknown'],['A Storm of Sword']
+637,1362,Umma,Unknown,['Faceless Men'],['Braavosi'],['A Feast for Crows']
+638,1369,Urswyck,Unknown,['Unknown'],['Unknown'],['A Storm of Sword']
+639,1371,Utherydes Wayn,Unknown,"['House Wayn', 'House Tully', 'House Stark', 'House Frey']",['Riverlands'],"['A Game of Thrones', 'A Clash of Kings']"
+640,1373,Utt,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+641,1378,Varamyr,"Lump,Varamyr Sixskins,Haggon","['Himself', 'Mance Rayder']",['Unknown'],"['A Storm of Sword', 'A Dance with Dragons']"
+642,1379,Vardis Egen,Unknown,"['House Egen', 'House Arryn']",['Vale of Arryn'],['A Game of Thrones']
+643,1380,Vargo Hoat,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+644,1381,Varly,Unknown,['House Stark'],['Northmen'],['A Game of Thrones']
+645,1382,Varys,"The Spider,The King's Spider,The Eunuch,Lord Varys,Rugen","[""House Baratheon of King's Landing"", 'House Targaryen']",['Lysene'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+646,1383,Vayon Poole,Unknown,"['House Poole', 'House Stark']",['Unknown'],['A Game of Thrones']
+647,1390,Visenya Targaryen,Unknown,['House Targaryen'],['Valyrian'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+648,1392,Viserys II Targaryen,Viserys Targaryen the Second of His Name,['House Targaryen'],['Free Cities'],"['A Game of Thrones', 'A Storm of Sword']"
+649,1393,Viserys III Targaryen,"Viserys of the House Targaryen,the Third of His Name,The Beggar King,Khal Rhae Mhar (the Sorefoot King),Khal Rhaggat (the Cart King)",['House Targaryen'],"['Valyrian', 'Free Cities']","['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+650,1397,Waif,Unknown,['Faceless Men'],['Unknown'],['A Feast for Crows']
+651,1399,Walda Frey (daughter of Merrett),"Walda Frey,Fat Walda","['House Frey', 'House Bolton']",['Andals'],"['A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+652,1401,Walda Frey (daughter of Walton),Fair Walda,['House Frey'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword']"
+653,1403,Walder Frey,"The Late Lord Frey,Old Frey","['House Frey', 'House Baelish']",['Andals'],"['A Game of Thrones', 'A Storm of Sword']"
+654,1404,Walder Frey (Black),Unknown,"['House Frey', 'House Tully', 'House Baelish']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword']"
+655,1406,Walder Frey (son of Jammos),Big Walder,"['House Frey', 'House Bolton', 'House Stark']",['Andals'],"['A Clash of Kings', 'A Dance with Dragons']"
+656,1407,Walder Frey (son of Merrett),Little Walder,"['House Frey', 'House Bolton', 'House Stark']",['Andals'],"['A Clash of Kings', 'A Dance with Dragons']"
+657,1410,Walder Rivers,Unknown,"['House Frey', 'House Tully']",['Riverlands'],"['A Storm of Sword', 'A Feast for Crows']"
+658,1412,Waldon Wynch,Unknown,['House Wynch'],['Ironborn'],['A Feast for Crows']
+659,1415,Wallen,Unknown,"[""Night's Watch""]",['Unknown'],['A Game of Thrones']
+661,1421,Waltyr Frey,Tyr,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+662,1423,Watt of Long Lake,Watt of Long Lake,"[""The Night's Watch""]",['Northmen'],['A Storm of Sword']
+663,1424,Waymar Royce,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+664,1427,Wendamyr,Unknown,['House Greyjoy'],['Unknown'],['A Feast for Crows']
+665,1428,Wendel Frey,Unknown,['House Frey'],['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+666,1429,Wendel Manderly,Unknown,['Unknown'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Dance with Dragons']"
+667,1430,Wex Pyke,Unknown,"['House Botley', 'House Greyjoy']",['Ironborn'],"['A Clash of Kings', 'A Dance with Dragons']"
+668,1431,Whalen Frey,Unknown,['House Frey'],['Unknown'],"['A Game of Thrones', 'A Storm of Sword', 'A Feast for Crows']"
+669,1432,Wick Whittlestick,Unknown,"[""The Night's Watch""]",['Unknown'],['A Dance with Dragons']
+670,1433,Will,Unknown,['Unknown'],['Unknown'],['A Game of Thrones']
+671,1434,Will Humble,Unknown,['House Humble'],['Ironborn'],['A Feast for Crows']
+672,1435,Willamen Frey,Unknown,"['House Frey', 'The Citadel', 'House Hunter']",['Riverlands'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+673,1438,Willem Frey,Unknown,"['House Frey', 'House Frey of Riverrun']",['Unknown'],['A Feast for Crows']
+674,1439,Willem Lannister,Unknown,['House Lannister'],['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword']"
+675,1440,William Mooton,Unknown,['Unknown'],['Unknown'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows']"
+676,1441,Willis Wode,Unknown,"['House Wode', 'House Tully', 'House Baelish']",['Riverlands'],"['A Game of Thrones', 'A Feast for Crows']"
+678,1444,Woth,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+680,1447,Wylis Manderly,Unknown,"['House Manderly', 'House Stark']",['Unknown'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+681,1450,Wylla Manderly,Unknown,['House Manderly'],['Northmen'],['A Dance with Dragons']
+682,1453,Wynafryd Manderly,Unknown,"['House Manderly', 'House Stark']",['Unknown'],['A Dance with Dragons']
+683,1454,Wynton Stout,Unknown,"['House Stout', ""The Night's Watch""]",['Northmen'],['A Storm of Sword']
+684,1456,Yandry,Unknown,['House Targaryen'],['Unknown'],['A Dance with Dragons']
+685,1457,Ygon Farwynd,Unknown,['House Farwynd of the Lonely Light'],['Ironborn'],['A Feast for Crows']
+686,1458,Ygritte,Unknown,['Mance Rayder'],['Free Folk'],"['A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+687,1459,Yohn Farwynd,Unknown,['House Farwynd of the Lonely Light'],['Ironborn'],['A Feast for Crows']
+688,1460,Yohn Royce,Bronze Yohn,"['House Royce of Runestone', 'House Arryn']",['Unknown'],['A Game of Thrones']
+689,1462,Yoren,Unknown,"[""Night's Watch""]",['Unknown'],"['A Game of Thrones', 'A Clash of Kings']"
+690,1463,Yorko Terys,Unknown,"[""Titan's Daughter""]",['Unknown'],['A Feast for Crows']
+691,1465,Ysilla,Unknown,['Unknown'],['Unknown'],['A Dance with Dragons']
+692,1467,Zollo,Unknown,['Unknown'],['Unknown'],['A Clash of Kings']
+693,1468,High Sparrow,"The High Sparrow,His High Holiness,The Father of the Faithful,The Voice of the Seven on Earth","['Faith of the Seven', 'Faith Militant', 'Sparrows']",['Andals'],"['A Feast for Crows', 'A Dance with Dragons']"
+694,1469,Jaime Lannister,"Kingslayer,The Lion of Lannister,The golden man,Cripple,The Young Lion,Goldenhand","['House Lannister', 'Kingsguard']",['Andals'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+695,1470,Tormund,"Tormund Giantsbane,Tall-talker,Horn-blower",['Mance Rayder'],['Free Folk'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+696,1471,Jon Snow,"Lord Snow,The Bastard of Winterfell,Lord Crow","['House Stark', ""The Night's Watch""]",['Northmen'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+697,1472,Tywin Lannister,"The great lion of the rock,The old lion",['House Lannister'],['Westerlands'],"['A Game of Thrones', 'A Clash of Kings', 'A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
+698,1473,Missandei,Unknown,['House Targaryen'],['Naathi'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons']"
+699,1474,Grey Worm,Unknown,"['The Unsullied', 'House Targaryen']",['Unknown'],"['A Storm of Sword', 'A Feast for Crows', 'A Dance with Dragons', 'The Winds of Winter']"
