@@ -8,3 +8,6 @@ matplotlib
 seaborn
 selenium
 webdriver-manager
+spacy
+networkx
+pyvis
