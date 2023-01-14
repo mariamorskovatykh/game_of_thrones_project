@@ -1,16 +1,26 @@
 
-def replace_word_in_string(text, old_word, new_word):
+import os
+
+def replace_word_in_file(file_path:str, old_word:str, new_word:str)->None:
     """
-    This function takes a string, an old word and a new word as input and replaces all occurrences of the old word in the string with the new word.
+    Replaces a specific word in a given file with another word and saves the changes.
 
     Parameters:
-        text (str): the input string.
-        old_word (str): word that needs to be replaced.
-        new_word (str): word that will replace the old word.
+    file_path (str): The path to the file.
+    old_word (str): The word to be replaced.
+    new_word (str): The word to replace the old word with.
 
     Returns:
-        str: the modified text with replaced words.
+    None
     """
-    new_text = text.replace(old_word, new_word)
-    return new_text
+    if not os.path.exists(file_path):
+        print("File path is invalid.")
+        return
 
+    with open(file_path, "r") as file:
+        file_data = file.read()
+
+    file_data = file_data.replace(old_word, new_word)
+
+    with open(file_path, "w") as file:
+        file.write(file_data)
