@@ -1,5 +1,7 @@
 # Exploring the Social Dynamics of 'A Song of Ice and Fire' Through Network Analysis
 
+![network](characters_community.png)
+
 ## Introduction
 
 This project uses web scraping, data visualization, and network analysis techniques to gain insights into the complex world of George R. R. Martin's 'A Song of Ice and Fire' book series. The project focuses on the relationships between the characters of the series, and how they change and evolve throughout the books.
