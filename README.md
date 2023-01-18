@@ -35,6 +35,7 @@ The project is developed in Python 3.10.6 with Jupyter Notebook, to use the proj
 * spacy
 * networkx
 * pyvis
+* communty
 
 You can install them using pip:
 
