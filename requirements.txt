@@ -12,4 +12,3 @@ spacy
 networkx
 pyvis
 community
-python-louvain
