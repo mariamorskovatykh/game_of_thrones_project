@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project uses web scraping, data visualization, and network analysis techniques to gain insights into the complex world of George R. R. Martin's 'A Song of Ice and Fire' book series. The project focuses on the relationships between the characters of the series, and how they change and evolve throughout the books.
+This project uses web scraping, data visualization, natural language processing, and network analysis techniques to gain insights into the complex world of George R. R. Martin's 'A Song of Ice and Fire' book series. The project focuses on the relationships between the characters of the series, and how they change and evolve throughout the books.
 
 ## Data Collection
 
@@ -12,7 +12,15 @@ The character data used in this project was collected by web scraping the A Song
 
 ## Data Analysis
 
-The data collected was then used to create a social network of the characters, with edges representing interactions between characters. The network was analyzed to find the important characters, communities and dynamics between them. I use various network analysis metrics such as degree centrality, betweenness centrality, and clustering coefficient to find characters' importance and their interactions with other characters.
+The project involves several key steps:
+
+1. Scraping the text of the "Song of Ice and Fire" book series using Selenium. Selenium is a web scraping tool that allows you to automate the process of extracting data from a website. In this project, I've used Selenium to scrape the text of all the books in the series from an online source.
+2. Using Spacy to perform Named Entity Recognition (NER) on the text to identify characters. NER is a technique used in NLP to identify and classify named entities in text, such as people, places, and organizations. In this project, I've used Spacy to identify the characters in the text and classify them by their role in the story (e.g. protagonist, antagonist, etc.).
+3. Filtering the data using Pandas. After extracting the characters and their roles, I've used Pandas, a powerful data manipulation library, to filter the data and prepare it for analysis.
+4. Creating relationship pairs and calculating how many times they appear in the text together. One of the key insights that can be gained from analyzing characters in a book series is understanding the relationships between them. In this project, I've used the extracted character data to create pairs of characters who appear together in the text and calculated how many times they appear together.
+5. Using NetworkX to create a graph of characters, with each character represented by a node. NetworkX is a Python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. In this project, I've used NetworkX to create a graph of the characters in the "Song of Ice and Fire" series, with each character represented by a node.
+6. Calculating the degree centrality of each node in the graph to identify the most important characters. Degree centrality is a measure of the importance of a node in a graph based on the number of its immediate neighbors. In this project, I've calculated the degree centrality of each node in the character graph to identify the most important characters in the series.
+7. Plotting the evolution of character importance through the books. One of the key questions that can be answered by analyzing the character data is how the importance of different characters changes over the course of the series. In this project, I've plotted the evolution of character importance through the books to show how the characters' roles in the story change over time.
 
 ## Visualization
 
