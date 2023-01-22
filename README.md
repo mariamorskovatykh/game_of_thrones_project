@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project uses web scraping, data visualization, natural language processing, and network analysis techniques to gain insights into the complex world of George R. R. Martin's 'A Song of Ice and Fire' book series. The project focuses on the relationships between the characters of the series, and how they change and evolve throughout the books.
+This project uses web scraping, data visualization, natural language processing, and network analysis techniques to gain insights into the complex world of George R. R. Martin's 'A Song of Ice and Fire' book series. The project focuses on the relationships between the characters of the series, how they change and evolve throughout the books.
 
 ## Data Collection
 
