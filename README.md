@@ -52,7 +52,7 @@ To run the project, open the Jupyter notebook `exploring_social_dynamics.ipynb` 
 
 ## Conclusion
 
-This project demonstrates how network analysis and data visualization can be used to gain a deeper understanding of the relationships between the characters in George R. R. Martin's 'A Song of Ice and Fire' series. It provides an interactive way for fans of the series to explore the complex dynamics of the world and characters, and can also be used as a teaching tool for students learning about network analysis and data visualization.
+This project demonstrates how network analysis and data visualization can be used to gain a deeper understanding of the relationships between the characters in George R. R. Martin's "A Song of Ice and Fire" book series. It provides an interactive way for fans of the series to explore the complex dynamics of the world and characters, and can also be used as a teaching tool for students learning about network analysis and data visualization.
 
 ## Limitations
 
