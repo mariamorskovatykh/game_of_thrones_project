@@ -23,7 +23,7 @@ The project involves several key steps:
 
 ## Visualization
 
-The results of the data analysis are presented through interactive plots and network visualizations using pyvis. These visualizations provide a deeper understanding of the interactions and power dynamics between the characters of the series.
+The results of the data analysis are presented through interactive plots and network visualizations using pyvis. These visualizations provide a deeper understanding of the interactions and power dynamics between the characters of the series. To see interactive visualizations,  open `got.html` file. 
 
 ## How to Use
 
