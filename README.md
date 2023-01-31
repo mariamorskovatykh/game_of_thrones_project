@@ -8,7 +8,7 @@ This project uses web scraping, data visualization, natural language processing,
 
 ## Data Collection
 
-The character data used in this project was collected by web scraping the A Song of Ice and Fire Wiki website (https://iceandfire.fandom.com/wiki/Wiki) using selenium library. The script collects character's name, houses, aliases, culture, and books they appeared in.
+The character data used in this project was collected by web scraping the A Song of Ice and Fire Wiki website (https://iceandfire.fandom.com/wiki/Wiki) using `selenium` library. The script collects character's name, houses, aliases, culture, and books they appeared in.
 
 ## Data Analysis
 
