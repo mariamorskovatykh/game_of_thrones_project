@@ -14,8 +14,9 @@ The character data used in this project was collected by web scraping the A Song
 
 The project involves several key steps:
 
-1. Using Spacy to perform Named Entity Recognition (NER) on the text to identify characters. NER is a technique used in NLP to identify and classify named entities in text, such as people, places, and organizations. In this project, I've used Spacy to identify the characters in the text.
-3. Filtering the data using Pandas. After extracting the characters, I've used Pandas to filter the data and prepare it for analysis.
+1. Using `Spacy` to perform Named Entity Recognition (NER) on the text to identify characters. NER is a technique used in NLP to identify and classify named entities in text, such as people, places, and organizations. In this project, I've used Spacy to identify the characters in the text.
+3. Filtering the data using 
+Pandas. After extracting the characters, I've used Pandas to filter the data and prepare it for analysis.
 4. Creating relationship pairs and calculating how many times they appear in the text together. One of the key insights that can be gained from analyzing characters in a book series is understanding the relationships between them. In this project, I've used the extracted character data to create pairs of characters who appear together in the text and calculated how many times they appear together.
 5. Using NetworkX to create a graph of characters, with each character represented by a node. NetworkX is a Python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. In this project, I've used NetworkX to create a graph of the characters in the "Song of Ice and Fire" series, with each character represented by a node.
 6. Calculating the degree centrality of each node in the graph to identify the most important characters. Degree centrality is a measure of the importance of a node in a graph based on the number of its immediate neighbors. In this project, I've calculated the degree centrality of each node in the character graph to identify the most important characters in the series.
